@@ -1,4 +1,4 @@
-### [생각을 코딩하다] FIAS(Fire Image Alarm System) 사용자 애플리케이션
+### FIAS(Fire Image Alarm System) 사용자 애플리케이션
 
 ---
 ### APIs 폴더 : 사용 API
